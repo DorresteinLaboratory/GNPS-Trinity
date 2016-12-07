@@ -1,7 +1,6 @@
 # GNPS-Trinity
-GNPS-Trinity workflow combine LC-MS feature detection, molecular networking, and in silico annotation
 
-GNPS-Trinity
+GNPS-Trinity workflow combine LC-MS feature detection, molecular networking, and in silico annotation
 
 This workflow is jointly developed by the Dorrestein's Lab (UC San Diego), Theodore Alexandrov's lab (EMBL), and Sebastian Boecker's lab (Jena University) that aims at bringing together LC-MS feature detection tools (OpenMS, Optimus workflow), in silico annotation (Sirius3, CSI:FingerID), and molecular networking (GNPS).
 
