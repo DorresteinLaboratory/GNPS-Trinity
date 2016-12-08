@@ -13,7 +13,7 @@ The GitHub contains the scripts of the workflow. The workflow has been designed 
 
 Knime worfklow (recommended): See Optimus GitHub for installation of Optimus and Knime https://github.com/alexandrovteam/Optimus. Additionnally you will have to install R https://cran.r-project.org/, as well as the "plyr" package https://cran.r-project.org/web/packages/plyr/index.html.
 
-Generate_GroupMapping_file_from_Metadata_table_v_0.1_2016.12.07.zip can be used to create a GNPS_group_mapping_file.txt using a metadata_table.csv GNPS_TRINITY_v_0.1_20161207.zip is used to combine the outputs of Optimus and Sirius, in order to import informations into Cytoscape.
+Generate_GroupMapping_file_from_Metadata_table_v_0.1_2016.12.07.zip can be used to create a GNPS_group_mapping_file.txt using a metadata_table.csv. GNPS_TRINITY_v_0.1_20161207.zip is used to combine the outputs of Optimus and Sirius, in order to import informations into Cytoscape.
 
 Jupyter notebooks: Underconstruction.
 
