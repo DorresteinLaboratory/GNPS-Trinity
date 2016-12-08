@@ -15,7 +15,7 @@ Knime worfklow (recommended): See Optimus GitHub for installation of Optimus and
 
 Generate_GroupMapping_file_from_Metadata_table_v_0.1_2016.12.07.zip can be used to create a GNPS_group_mapping_file.txt using a metadata_table.csv. GNPS_TRINITY_v_0.1_20161207.zip is used to combine the outputs of Optimus and Sirius, in order to import informations into Cytoscape.
 
-Jupyter notebooks: Underconstruction.
+Jupyter notebooks: Under construction.
 
 See documentation on GNPS for more details https://bix-lab.ucsd.edu/display/Public/GNPS+Trinity+workflow.
 
