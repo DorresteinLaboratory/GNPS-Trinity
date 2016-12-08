@@ -19,8 +19,8 @@ Jupyter notebooks: Under construction.
 
 See documentation on GNPS for more details https://bix-lab.ucsd.edu/display/Public/GNPS+Trinity+workflow.
 
-Optimus workflow is a LC-MS feature analysis tool using OpenMS, developed by Ivan Protsiuc at Theodore Alexandrov group at EMBL. https://github.com/alexandrovteam/Optimus
+Optimus workflow is a LC-MS feature analysis tool using OpenMS, developed by Ivan Protsiuc at Theodore Alexandrov group at EMBL https://github.com/alexandrovteam/Optimus.
 
 Sirius for in silico MS/MS annotation
 
-Sirius3 a new java-based software framework for discovering a landscape of de-novo identification of metabolites using single and tandem mass spectrometry developed by Kai Dührkop and Sebastian Boecker at Jena University. This tool uses isotopic pattern, analysis and fragmentation tree to calculate candidate molecular formula, and now also integrates CSI:FingerID to generate candidate structures. https://bio.informatik.uni-jena.de/software/sirius/
+Sirius3 a new java-based software framework for discovering a landscape of de-novo identification of metabolites using single and tandem mass spectrometry developed by Kai Dührkop and Sebastian Boecker at Jena University. This tool uses isotopic pattern, analysis and fragmentation tree to calculate candidate molecular formula, and now also integrates CSI:FingerID to generate candidate structures https://bio.informatik.uni-jena.de/software/sirius/.
