@@ -11,16 +11,16 @@ The key improvements are:
 
 The GitHub contains the scripts of the workflow. The workflow has been designed by Louis-Felix Nothias (Dorrestein Lab UCSD) and the scripts coded by Madeleine Ernst (Dorrestein Lab and Copenhagen University). They are available as Knime workflows and Jupyter notebooks.
 
-Knime worfklow (recommended): See Optimus GitHub for installation of Optimus and Knime https://github.com/alexandrovteam/Optimus Additionnally you will have to install R https://cran.r-project.org/, as well as the "plyr" package https://cran.r-project.org/web/packages/plyr/index.html
+Knime worfklow (recommended): See Optimus GitHub for installation of Optimus and Knime https://github.com/alexandrovteam/Optimus Additionnally you will have to install R https://cran.r-project.org/, as well as the "plyr" package https://cran.r-project.org/web/packages/plyr/index.html.
 
-CSVTXT_GroupMappingConversion.knar.knwf can be used to create a GNPS_group_mapping_file.txt using a metadata_table.csv GNPS_TRINITY_20161206.knar is used to prepare the outputs of Optimus, and Sirius, in order to import informations into Cytoscape.
+Generate_GroupMapping_file_from_Metadata_table_v_0.1_2016.12.07.zip can be used to create a GNPS_group_mapping_file.txt using a metadata_table.csv GNPS_TRINITY_v_0.1_20161207.zip is used to combine the outputs of Optimus and Sirius, in order to import informations into Cytoscape.
 
-Jupyter notebooks: Underconstruction
+Jupyter notebooks: Underconstruction.
 
-See documentation on GNPS for more details https://bix-lab.ucsd.edu/display/Public/GNPS+Trinity+workflow
+See documentation on GNPS for more details https://bix-lab.ucsd.edu/display/Public/GNPS+Trinity+workflow.
 
-Optimus workflow is a LC-MS feature analysis tools using OpenMS, develop by Ivan Protsiuc at Theodore Alexandrov group at EMBL. https://github.com/alexandrovteam/Optimus
+Optimus workflow is a LC-MS feature analysis tool using OpenMS, develop by Ivan Protsiuc at Theodore Alexandrov group at EMBL. https://github.com/alexandrovteam/Optimus
 
 Sirius for in silico MS/MS annotation
 
-Sirius3 a new java-based software framework for discovering a landscape of de-novo identification of metabolites using single and tandem mass spectrometry developed by Kai Dührkop and Sebastian Boecker at Jena University. This tool use isotopic pattern and analysis and fragmentation tree to calculate candidate molecular formula, and integrate now CSI:FingerID to generate candidate structures. https://bio.informatik.uni-jena.de/software/sirius/
+Sirius3 a new java-based software framework for discovering a landscape of de-novo identification of metabolites using single and tandem mass spectrometry developed by Kai Dührkop and Sebastian Boecker at Jena University. This tool uses isotopic pattern, analysis and fragmentation tree to calculate candidate molecular formula, and now also integrates CSI:FingerID to generate candidate structures. https://bio.informatik.uni-jena.de/software/sirius/
