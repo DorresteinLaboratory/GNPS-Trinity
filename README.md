@@ -19,7 +19,7 @@ Jupyter notebooks: Under construction.
 
 See documentation on GNPS for more details https://bix-lab.ucsd.edu/display/Public/GNPS+Trinity+workflow.
 
-Optimus workflow is a LC-MS feature analysis tool using OpenMS, develop by Ivan Protsiuc at Theodore Alexandrov group at EMBL. https://github.com/alexandrovteam/Optimus
+Optimus workflow is a LC-MS feature analysis tool using OpenMS, developed by Ivan Protsiuc at Theodore Alexandrov group at EMBL. https://github.com/alexandrovteam/Optimus
 
 Sirius for in silico MS/MS annotation
 
