@@ -1,7 +1,8 @@
 # GNPS-Trinity workflow combines LC-MS feature detection, molecular networking, and in silico annotation
 
 ## DESCRIPTION
-This workflow is jointly developed by the Dorrestein's Lab (UC San Diego), Theodore Alexandrov's lab (EMBL), and Sebastian Boecker's lab (Jena University) that aims at bringing together LC-MS feature detection tools (OpenMS, Optimus workflow), in silico annotation (Sirius3, CSI:FingerID), and molecular networking (GNPS, http:/gnps.ucsd.edu).
+This workflow is jointly developed by the Dorrestein's Lab (UC San Diego), Theodore Alexandrov's lab (EMBL), and Sebastian Boecker's lab (Jena University) that aims at bringing together LC-MS feature detection tools (OpenMS, Optimus workflow), in silico annotation (Sirius3, CSI:FingerID), and molecular networking (GNPS,[ http:/gnps.ucsd.edu ])
+
 
 The key improvements offered by the GNPS-Trinity workflow are:
 + (1) mapping back the intensity of the LC-MS feature detected across samples as pie-chart diagram directly into the molecular networks for semi-quantitative purpose,
@@ -10,7 +11,7 @@ The key improvements offered by the GNPS-Trinity workflow are:
 
 The GitHub contains the scripts and instructions of the workflow allowing to combine the outputs of Optimus, Sirius and GNPS, and to visualize the result into Cytoscape. The workflow has been designed by Louis-Felix Nothias (Dorrestein Lab UCSD) and the scripts coded by Madeleine Ernst (Dorrestein Lab and Copenhagen University). They are available as Knime workflows and Jupyter notebooks.
 
-IMPORTANT: IT IS NOT RECOMMENDED TO USE MORE THAN 300-500 SAMPLES.
+IMPORTANT: RIGHT NOW, IT IS NOT RECOMMENDED TO USE THAT WORFKLOW FOR MORE THAN 500 SAMPLES.
 
 ## YOUTUBE VIDEO TUTORIAL FOR GNPS-TRINITY ##
 Please refer to this video: https://www.youtube.com/watch?v=zDcY7iuvyQY
