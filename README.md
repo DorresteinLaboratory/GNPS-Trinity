@@ -10,6 +10,8 @@ The key improvements offered by the GNPS-Trinity workflow are:
 
 The GitHub contains the scripts and instructions of the workflow allowing to combine the outputs of Optimus, Sirius and GNPS, and to visualize the result into Cytoscape. The workflow has been designed by Louis-Felix Nothias (Dorrestein Lab UCSD) and the scripts coded by Madeleine Ernst (Dorrestein Lab and Copenhagen University). They are available as Knime workflows and Jupyter notebooks.
 
+IMPORTANT: IT IS NOT RECOMMENDED TO USE MORE THAN 300-500 SAMPLES.
+
 ## YOUTUBE VIDEO TUTORIAL FOR GNPS-TRINITY ##
 Please refer to this video: https://www.youtube.com/watch?v=zDcY7iuvyQY
 
