@@ -11,10 +11,10 @@ The GitHub contains the scripts and instructions of the workflow allowing to com
 Please refer to this video: https://www.youtube.com/watch?v=zDcY7iuvyQY
 
 ## INSTALLATION ##
-GNPS-TRINITY WORKFLOW (in Knime, recommended): 
--Install Knime and Optimus workflow. See Optimus GitHub for installation [use Express installation procedure] https://github.com/alexandrovteam/Optimus. 
--Download the GNPS_TRINITY_v_0.1_2016.12.07.zip and import the workflow in Knime. Refer to the tutorial video for instructions https://www.youtube.com/watch?v=zDcY7iuvyQY. 
--Download you will have to install R https://cran.r-project.org/. -For Windows, R should be installed in the folder "C:/ProgramFiles/R" or path specified accordingly.                                                                              - In addition, the R packages "Rserve" and the "plyr" have to be installed (open R and type install.packages("Rserve") or install.packages("plyr") respectively).
+GNPS-TRINITY WORKFLOW (in Knime, recommended):
++ Install Knime and Optimus workflow. See Optimus GitHub for installation [use Express installation procedure] https://github.com/alexandrovteam/Optimus. 
++ Download the GNPS_TRINITY_v_0.1_2016.12.07.zip and import the workflow in Knime. Refer to the tutorial video for instructions https://www.youtube.com/watch?v=zDcY7iuvyQY. 
++ Download you will have to install R https://cran.r-project.org/. -For Windows, R should be installed in the folder "C:/ProgramFiles/R" or path specified accordingly.
 
 See the [obsolete] documentation on GNPS for more instructions https://bix-lab.ucsd.edu/display/Public/GNPS+Trinity+workflow.
 
@@ -29,8 +29,8 @@ Optimus workflow is a LC-MS feature analysis tool using OpenMS, developed by Iva
 
 Sirius3 a new java-based software framework for discovering a landscape of de-novo identification of metabolites using single and tandem mass spectrometry developed by Kai Dührkop and Sebastian Boecker at Jena University. This tool uses isotopic pattern, analysis and fragmentation tree to calculate candidate molecular formula, and now also integrates CSI:FingerID to generate candidate structures https://bio.informatik.uni-jena.de/software/sirius/.
 
-## License
+### License
 The content of this project is licensed under the GNU GENERAL PUBLIC LICENSE 3, see LICENSE.md.
 
-#### Citation:
+### Citation:
 Sharing and community curation of mass spectrometry data with Global Natural Products Social Molecular Networking. Nature Biotechnology 34, 828–837 (2016) doi:10.1038/nbt.3597 http://www.nature.com/nbt/journal/v34/n8/full/nbt.3597.html
