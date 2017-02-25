@@ -22,7 +22,7 @@ GNPS-TRINITY WORKFLOW (in Knime, recommended):
 + Download the GNPS_TRINITY_v_0.1_2016.12.07.zip and import the workflow in Knime. Refer to the tutorial video for instructions https://www.youtube.com/watch?v=zDcY7iuvyQY. 
 + Download you will have to install R https://cran.r-project.org/. -For Windows, R should be installed in the folder "C:/ProgramFiles/R" or path specified accordingly.
 
-### TROUBLESHOUTING
+### TROUBLESHOOTING
 + For Optimus, see Troubleshooting on https://github.com/alexandrovteam/Optimus
 + For GNPS-Trinity workflow [in Knime]
 + For GNPS-Trinity workflow [in Knime]
