@@ -23,9 +23,8 @@ GNPS-TRINITY WORKFLOW (in Knime, recommended):
 + Download you will have to install R https://cran.r-project.org/. -For Windows, R should be installed in the folder "C:/ProgramFiles/R" or path specified accordingly.
 
 ### TROUBLESHOOTING
-+ For Optimus, see Troubleshooting on https://github.com/alexandrovteam/Optimus
-+ For GNPS-Trinity workflow [in Knime]
-+ For GNPS-Trinity workflow [in Knime]
++ For Optimus, see Troubleshooting on https://github.com/MolecularCartography/Optimus
++ In Optimus, the node "Prepare results" is not ending -> convert your file to mzML instead of mzXML
 + For GNPS-Trinity workflow [in Knime]
 + For Sirius [Graphical User Interface]: I have no CSIFingerID output files -> Instead Specify the path to an empty folder
 + For Sirius [Graphical User Interface]: Sirius or CSIFingerID job are not ending -> Just save the output like described in the tutorial. Sirius will take very long to process features above m/z 800-900.
