@@ -20,7 +20,7 @@ Please refer to this video: https://www.youtube.com/watch?v=zDcY7iuvyQY
 GNPS-TRINITY WORKFLOW (in Knime, recommended):
 + Install Knime and Optimus workflow. See Optimus GitHub for installation [use Express installation procedure] https://github.com/alexandrovteam/Optimus. 
 + Download the GNPS_TRINITY_v_0.1_2016.12.07.zip and import the workflow in Knime. Refer to the tutorial video for instructions https://www.youtube.com/watch?v=zDcY7iuvyQY. 
-+ Download you will have to install R https://cran.r-project.org/. -For Windows, R should be installed in the folder "C:/ProgramFiles/R" or path specified accordingly.
++ Download you will have to install R https://cran.r-project.org/. -For Windows, R should be installed in the folder "C:/ProgramFiles/R" or path specified accordingly. In addition the R packages, Rserve and plyr must be installed type [install.packages("Rserve") or install.packages("plyr") respectively]
 
 ### TROUBLESHOOTING
 + For Optimus, see Troubleshooting on https://github.com/MolecularCartography/Optimus
@@ -28,7 +28,9 @@ GNPS-TRINITY WORKFLOW (in Knime, recommended):
 + For GNPS-Trinity workflow [in Knime]
 + For Sirius [Graphical User Interface]: I have no CSIFingerID output files -> Instead Specify the path to an empty folder
 + For Sirius [Graphical User Interface]: Sirius or CSIFingerID job are not ending -> Just save the output like described in the tutorial. Sirius will take very long to process features above m/z 800-900.
-+ Sirius [commandline], the sirius process has not run completely -> Create an empty txt file and name it csi_finder_summary.csv, and place it in the root folder of the Sirius output
++ For Sirius [Graphical User Interface]: Error Knime console related to R. Verify that the environment variable indicating the path to R is correctly set.
++ Sirius [commandline], the sirius process has not run completely -> Create an empty txt file and name it csi_finder_summary.csv, and place it in the root folder of the Sirius output.
+
 
 For other bugs, open an issue on GitHub or contact directly the respective developers.
 
